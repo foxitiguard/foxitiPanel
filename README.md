@@ -1,12 +1,12 @@
 
-<h2 align="center">Lightweight and powerful control panel for the modern web</h2>
+<h2 align="center">Lightweight and powerful control panel for the modern web<br> MADE IN BANGLADESH</br> </h2>
 
-<p align="center"><strong>Latest stable release:</strong> Version 1.10.5 | <a href="https://github.com/hestiacp/hestiacp/blob/release/CHANGELOG.md">View Changelog</a></p>
+<p align="center"><strong>Latest stable release:</strong> Version 1.10.5 | <a href="https://github.com/foxitiguard/foxitiPanel/blob/release/CHANGELOG.md">View Changelog</a></p>
 
 <p align="center">
-	<a href="https://www.hestiacp.com/">HestiaCP.com</a> |
-	<a href="https://docs.hestiacp.com/">Documentation</a> |
-	<a href="https://forum.hestiacp.com/">Forum</a>
+	<a href="https://http://cp.foxitiguard.com//">HestiaCP.com</a> |
+	<a href="https://http://cp.foxitiguard.com/doc/">Documentation</a> |
+	<a href="https://http://cp.foxitiguard.com/forum/">Forum</a>
 	<br/><br/>
 	<a href="https://github.com/hestiacp/hestiacp/actions/workflows/lint.yml">
 		<img src="https://github.com/hestiacp/hestiacp/actions/workflows/lint.yml/badge.svg" alt="Lint Status"/>
@@ -21,7 +21,7 @@
 Hestia Control Panel is designed to provide administrators an easy to use web and command line interface, enabling them to quickly deploy and manage web domains, mail accounts, DNS zones, and databases from one central dashboard without the hassle of manually deploying and configuring individual components or services.
 
 ## Donate
-
+https://github.com/foxitiguard/foxitiPanel/blob/main/README.md
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ST87LQH2CHGLA)<br /><br />
 Bitcoin : bc1q48jt5wg5jaj8g9zy7c3j03cv57j2m2u5anlutu<br>
 Ethereum : 0xfF3Dd2c889bd0Ff73d8085B84A314FC7c88e5D51<br>
