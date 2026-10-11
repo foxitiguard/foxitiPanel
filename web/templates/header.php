@@ -1,13 +1,13 @@
 <!doctype html>
-<html class="no-js" lang="<?= $_SESSION["LANGUAGE"] ?>">
+<html class="no-js" lang="<?= htmlspecialchars($_SESSION["LANGUAGE"] ?? "en", ENT_QUOTES, 'UTF-8') ?>">
 
 <head>
 <?php
-require $_SERVER["HESTIA"] . "/web/templates/includes/title.php";
-require $_SERVER["HESTIA"] . "/web/templates/includes/css.php";
-require $_SERVER["HESTIA"] . "/web/templates/includes/js.php";
+require $_SERVER["FOXITI"] . "/web/templates/includes/title.php";
+require $_SERVER["FOXITI"] . "/web/templates/includes/css.php";
+require $_SERVER["FOXITI"] . "/web/templates/includes/js.php";
 ?>
 </head>
 
-<body class="page-<?= strtolower($TAB) ?> lang-<?= $_SESSION["language"] ?>">
+<body class="page-<?= strtolower($TAB) ?> lang-<?= htmlspecialchars($_SESSION["LANGUAGE"] ?? "en", ENT_QUOTES, 'UTF-8') ?>">
 	<div class="app">
