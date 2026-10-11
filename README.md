@@ -1,13 +1,8 @@
 
 <h2 align="center">Lightweight and powerful control panel for the modern web<br> MADE IN BANGLADESH</br> </h2>
 
-<p align="center"><strong>Latest stable release:</strong> Version 1.10.5 | <a href="https://github.com/foxitiguard/foxitiPanel/blob/release/CHANGELOG.md">View Changelog</a></p>
+<p align="center"><strong>Latest stable release:</strong> Version 1.10.5 |
 
-<p align="center">
-	<a href="https://http://cp.foxitiguard.com//">HestiaCP.com</a> |
-	<a href="https://http://cp.foxitiguard.com/doc/">Documentation</a> |
-	<a href="https://http://cp.foxitiguard.com/forum/">Forum</a>
-	<br/><br/>
 </a>
 		
 
