@@ -17,7 +17,6 @@ Bitcoin : 0x7bba031cdf9d65f1ddfa2f8f3687707ba0669592<br>
 Ethereum : 0x7bba031cdf9d65f1ddfa2f8f3687707ba0669592<br>
 Binance: 0x7bba031cdf9d65f1ddfa2f8f3687707ba0669592
 
-Project infrastructure is partly provided by [infrahost](https://infrahost.ch/en/).
 
 ## Features and Services
 
