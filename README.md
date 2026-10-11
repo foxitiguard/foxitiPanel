@@ -8,17 +8,12 @@
 	<a href="https://http://cp.foxitiguard.com/doc/">Documentation</a> |
 	<a href="https://http://cp.foxitiguard.com/forum/">Forum</a>
 	<br/><br/>
-	<a href="https://github.com/hestiacp/hestiacp/actions/workflows/lint.yml">
-		<img src="https://github.com/hestiacp/hestiacp/actions/workflows/lint.yml/badge.svg" alt="Lint Status"/>
-	</a>
-	<a href="https://gurubase.io/g/hestia">
-		<img src="https://img.shields.io/badge/Gurubase-Ask%20Hestia%20Guru-006BFF" alt="Gurubase"/>
-	</a>
-</p>
+</a>
+		
 
 ## **Welcome!**
 
-Hestia Control Panel is designed to provide administrators an easy to use web and command line interface, enabling them to quickly deploy and manage web domains, mail accounts, DNS zones, and databases from one central dashboard without the hassle of manually deploying and configuring individual components or services.
+Foxiti Control Panel is designed to provide administrators an easy to use web and command line interface, enabling them to quickly deploy and manage web domains, mail accounts, DNS zones, and databases from one central dashboard without the hassle of manually deploying and configuring individual components or services.
 
 ## Donate
 https://github.com/foxitiguard/foxitiPanel/blob/main/README.md
