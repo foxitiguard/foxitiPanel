@@ -12,7 +12,7 @@ Foxiti Control Panel is designed to provide administrators an easy to use web an
 
 ## Donate
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ST87LQH2CHGLA)<br /><br />
+<br />
 Bitcoin : 0x7bba031cdf9d65f1ddfa2f8f3687707ba0669592<br>
 Ethereum : 0x7bba031cdf9d65f1ddfa2f8f3687707ba0669592<br>
 Binance: 0x7bba031cdf9d65f1ddfa2f8f3687707ba0669592
